@@ -1,6 +1,6 @@
 states = {
         'Oregon': 'OR',
-        'Florida': 'FL'
+        'Florida': 'FL',
         'California': 'CA',
         'New York': 'NY',
         'Michigan': 'MI'
@@ -20,11 +20,11 @@ print("NY State has: ", cities['NY'])
 print("OR State has: ", cities['OR'])
 
 print('-' * 10)
-print("Michiagan's abbreviation is:", states['Michiagn'])
+print("Michigan's abbreviation is:", states['Michigan'])
 print("Florida's abbreviation is:", states['Florida'])
 
 print('-' * 10)
-print("Michiagan has: ", cities[states['Michigan']])
+print("Michigan has: ", cities[states['Michigan']])
 print("Florida has: ", cities[states['Florida']])
 
 print('-' * 10)
