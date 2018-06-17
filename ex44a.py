@@ -10,7 +10,7 @@ dad = Parent()
 son = Child()
 
 dad.implicit()
-som.implicit()
+son.implicit()
 
  
 
