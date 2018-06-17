@@ -9,7 +9,7 @@ class Child(Parent):
 dad = Parent()
 son = Child()
 
-dat.implicit()
+dad.implicit()
 som.implicit()
 
  
