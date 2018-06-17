@@ -1,6 +1,6 @@
 class Parent(object):
 
-    def overrid(self):
+    def override(self):
         print("PARENT override()")
 
     def implicit(self):
