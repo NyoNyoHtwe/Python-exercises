@@ -3,7 +3,7 @@ class Parent(object):
     def implicit(self):
         print("PARENT implicit()")
 
-class Chils(Parent):
+class Child(Parent):
     pass
 
 dad = Parent()
